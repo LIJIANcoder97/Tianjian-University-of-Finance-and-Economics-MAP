@@ -75,9 +75,9 @@
 
 ## 图片
 <img src="https://github.com/LIJIANcoder97/Tianjian-University-of-Finance-and-Economics-MAP/blob/master/image/first.jpg" width="300" height="500" alt="首页" align=center>
-<img src="https://github.com/LIJIANcoder97/Tianjian-University-of-Finance-and-Economics-MAP/blob/master/image/jianjie.jpg" width="300" height="500" alt="财大简介" align=center>
-<img src="(https://github.com/LIJIANcoder97/Tianjian-University-of-Finance-and-Economics-MAP/blob/master/image/1.jpg" width="300" height="500" alt="校内讲座" align=center>
-<img src="(https://github.com/LIJIANcoder97/Tianjian-University-of-Finance-and-Economics-MAP/blob/master/image/zhuye.jpg" width="300" height="500" alt="主页" align=center>
-<img src="(https://github.com/LIJIANcoder97/Tianjian-University-of-Finance-and-Economics-MAP/blob/master/image/daohang.jpg" width="300" height="500" alt="导航" align=center>
+<img src="https://github.com/LIJIANcoder97/Tianjian-University-of-Finance-and-Economics-MAP/blob/master/image/jianjie.jpg" width="900" height="500" alt="财大简介" align=center>
+<img src="https://github.com/LIJIANcoder97/Tianjian-University-of-Finance-and-Economics-MAP/blob/master/image/1.jpg" width="300" height="500" alt="校内讲座" align=center>
+<img src="https://github.com/LIJIANcoder97/Tianjian-University-of-Finance-and-Economics-MAP/blob/master/image/zhuye.jpg" width="300" height="500" alt="主页" align=center>
+<img src="https://github.com/LIJIANcoder97/Tianjian-University-of-Finance-and-Economics-MAP/blob/master/image/daohang.jpg" width="300" height="500" alt="导航" align=center>
 
 
